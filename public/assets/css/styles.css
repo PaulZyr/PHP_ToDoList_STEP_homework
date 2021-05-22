@@ -1,0 +1,68 @@
+body {
+    background-color: aliceblue;
+}
+.container {
+    min-width: 400px;
+    max-width: 1000px;
+}
+hr {
+    margin: 10px 0px;
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    background-color: bisque;
+    border-color: #8B0000;
+}
+h6 {
+    margin-left: 5px;
+}
+hr {
+    color: #8B0000;
+    height: 2px;
+}
+.site-style {
+    background-color: #FAF0E6;
+    color: 	#8B0000;
+}
+.w-90 {
+    width: 90%;
+    margin: auto;
+}
+.w-95 {
+    width: 95%;
+    margin: auto;
+}
+nav {
+    text-align: left;
+}
+nav span {
+    padding: 10px;
+}
+img {
+    display: block;
+    max-width: 80%;
+    margin: auto;
+}
+.btn {
+    font-size: 0.8rem;
+    padding: 0px 5px;
+    margin-left: 5px;
+}
+
+.priority {
+    color: red;
+}
+.non-priority {
+    color: blueviolet;
+}
+.completed {
+    color: gray;
+    text-decoration: line-through;
+}
+ol {
+    color: black;
+}
+.fs-7 {
+    font-size: 0.8rem;
+}
