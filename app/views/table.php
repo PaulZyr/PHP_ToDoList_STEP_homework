@@ -3,7 +3,7 @@
 if (isset($dailyTasks)) {
     echo '<ol>';
     foreach ($dailyTasks as $id => $task) {
-        echo '<li class="border-secondary border-1 border-top p-1 mt-2"><span class="fs-3 ';
+        echo '<li class="border-secondary border-1 border-top p-1 mt-2"><span class="fs-4 ';
 
         if ($task['priority'] === 'yes') {
             echo ' priority';
